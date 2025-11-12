@@ -1,5 +1,5 @@
 // app/layout.tsx
-import './globals.css';
+import '@/styles/globals.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import type { Metadata } from 'next';
 import Layout from '@/components/Layout';
